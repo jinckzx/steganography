@@ -1,9 +1,12 @@
 # steganography //anmol 21BCE5984
 Topic: Steganography using Deep Learning
+
 - This study explores the application of Convolutional Neural Networks (CNNs) in Deep Learning (DL) to improve the security and performance of image-to-image steganography. Our technique seeks to provide high imperceptibility and resilience against steganalysis while encoding and decoding hidden information in pictures by utilizing CNNs.
 - The main objective of this work is to present a new technique for secret message transmission that combines DL with image-to-image steganography, making it more effective and safe. The objective is to showcase the latest developments in the field and illustrate how DL models may improve image-to-image and text-image steganography performance. 
-
-  # future scope
+# Dataset 
+- https://chaladze.com/l5/#:~:text=Overview&text=Images%20are%20256x256%20pixels%2C%20color,400%20test%20images%20per%20class.
+  
+# future scope
   - The future of image-to-image steganography using CNNs (Convolutional Neural Networks) is bright and filled with exciting possibilities. Here are some key areas where we can expect significant advancements:
 
 **Improved Embedding Capacity and Imperceptibility:**
